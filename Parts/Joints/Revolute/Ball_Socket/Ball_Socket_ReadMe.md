@@ -16,3 +16,6 @@
 Black PETG tested, or use Prusament Galaxay Red PLA
 
 NOTE: Make sure the .3mf file is sliced for the appropriate filament. The .bgcode file will have the filament type in the title
+
+https://github.com/user-attachments/assets/2f272e0a-5feb-4bb7-9292-7fe2d0f45b8b
+
