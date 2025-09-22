@@ -8,6 +8,5 @@
 ## Filament
 Prusa Royal Blue PLA
 
-
-https://github.com/user-attachments/assets/6556b327-7794-4437-8c9b-5178eedab348
+https://github.com/user-attachments/assets/b54df72b-fbb9-4c9e-9b8f-6c25058ae48f
 
