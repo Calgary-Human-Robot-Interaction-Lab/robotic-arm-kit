@@ -1,5 +1,5 @@
 # robotic-arm-kit
-This repository contains the necessary files to 3D print your own Modular Robotics Kit. 
+This repository contains the necessary files to 3D print your own Modular Robotics Kit. There is now a version 2, see release notes for more information
 
 ## Layout
 Within each specific part folder, Individual Files, Batch Files, and a ReadMe is provided. 
